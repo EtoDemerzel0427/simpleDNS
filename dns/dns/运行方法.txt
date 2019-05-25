@@ -1,0 +1,4 @@
+在当前目录下，打开cmd/powershell，输入：
+python -m dnsrelay (-d) (-dd) --server_ip xxx.xxx.xxx.xxx --config xxxx.txt
+
+-d 和 -dd是action，不需要赋值。
